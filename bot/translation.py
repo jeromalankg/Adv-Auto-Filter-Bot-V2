@@ -7,12 +7,12 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>welcome to DraX 18+ Bot....😉
 
-channel links  🔥🔥😝
+Channel links  🔥🔥😝
 
 (1) @elmundodebrazzers
 (2) @Canal_SexMex
 (3) @Oasis69
 
-warning: these channels are not belongs too DraX, so do it in ur own risk..... 
+WARNING: These channels are not belongs too DRAX , so do it in ur own Risk..... 
 @DraXMovieZ
-</i>"""    
+  
