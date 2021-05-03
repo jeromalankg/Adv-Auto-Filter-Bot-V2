@@ -5,15 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>welcome to DraX 18+ Bot....😉
+<i>welcome to DraX Movies.....😉
 
-Channel links  🔥🔥😝
+Am just a Advance Auto Filter Bot for DraX Group 
 
-(1) @elmundodebrazzers
-(2) @Canal_SexMex
-(3) @Oasis69
-
-WARNING: These channels are not belongs too DRAX , so do it in ur own Risk..... 
+For more updates join our support Group
 @DraXMovieZ
+
 </i>"""
   
