@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DraXMovieZ"
+                                    '⭕️ Join Our Channel ⭕️', url="https://t.me/DraXFiles"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DraXMovieZ"
+                                    '⭕️ Join Our Channel ⭕️', url="https://t.me/DraXFiles"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/DraXMovieZ"
+                                    '⭕️ Join Our Channel ⭕️', url="https://t.me/DraXFiles"
                                 )
                         ]
                     ]
@@ -89,12 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/DraXMovieZ'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/DraXMovieZ')
+        InlineKeyboardButton('♻️ Group', url='https://t.me/DraxmovieZ'),
+        InlineKeyboardButton('🎞 Channel', url ='https://t.me/Draxmovies_drax')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/DraXMovieZ')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
