@@ -137,10 +137,10 @@ async def auto_filter(bot, update):
                 ]
             )
         # Just A Decaration
+        
         result[0].append([
             InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
         ])
-
         result[0].append([ InlineKeyboardButton(f"💢 Join Our Main channel 💢", url="https://t.me/joinchat/TV_lOjIzLBGmSMGi") ])
         # if show_invite is True Append invite link buttons
         if show_invite:
